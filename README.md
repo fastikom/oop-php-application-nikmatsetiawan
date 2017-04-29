@@ -1,4 +1,4 @@
 # Nikmat Setiawan 2014150041
-# login
+# untuk login
 # username  : nikmat
 # pass      : nikmat
